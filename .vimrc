@@ -39,6 +39,6 @@ let g:ackprg = 'ag --vimgrep'
 
 command! MakeTags !ctags -R .
 
-
+imap <C-a> <Esc>
 
 
